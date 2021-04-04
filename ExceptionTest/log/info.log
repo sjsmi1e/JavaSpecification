@@ -1,0 +1,13 @@
+21:51:26.955 [main] INFO  com.smlie.App - Starting App on DESKTOP-T40MLGC with PID 6432 (C:\Users\Administrator\Desktop\ExceptionTest\target\classes started by smile丶 in C:\Users\Administrator\Desktop\ExceptionTest)
+21:51:26.995 [main] INFO  com.smlie.App - No active profile set, falling back to default profiles: default
+21:51:29.760 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+21:51:29.770 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+21:51:29.770 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.13
+21:51:29.780 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python\Python37\Scripts\;C:\Python\Python37\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Java\jdk1.8.0_191\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Java\apache-maven-3.6.0\bin;C:\TDM-GCC-64\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\mysql-8.0.15-winx64\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Fiddler;C:\Users\Administrator\AppData\Roaming\npm;.]
+21:51:29.980 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:51:30.679 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+21:51:30.689 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+21:51:30.729 [main] INFO  com.smlie.App - Started App in 4.733 seconds (JVM running for 9.172)
+21:51:45.951 [http-nio-8080-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:51:46.239 [http-nio-8080-exec-2] INFO  com.smlie.controller.UserController - 正在新增一条用户信息
+21:51:46.239 [http-nio-8080-exec-2] INFO  com.smlie.controller.UserController - 新增成功

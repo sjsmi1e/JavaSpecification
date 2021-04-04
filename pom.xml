@@ -6,7 +6,14 @@
 	<modules>
 		<module>Java-Serializable</module>
 		<module>Java-O2O</module>
-	</modules>
+        <module>Java-SwitchAndNull</module>
+		<module>Java-CoinEnum</module>
+        <module>Java-List</module>
+		<module>Java-VarArg</module>
+        <module>Java-ThreadPool</module>
+        <module>Java-Exception</module>
+        <module>MyTest</module>
+    </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
